@@ -9,12 +9,12 @@ Currently, two official plugins are available:
 
 # Step-by-Step Guide:
 
-Step 1: Install the node package manager using following command
-# npm install
+# Step 1: Install the node package manager using following command
+``` npm install ```
 
-Step 2: Run the Application:
+# Step 2: Run the Application:
 Start the development server.
 
-# npm run dev
+``` npm run dev ```
 
-The application should now be running on http://localhost:5173 (or a similar port). Open this URL in your browser to see the quiz application in action.
+# The application should now be running on http://localhost:5173 (or a similar port). Open this URL in your browser to see the quiz application in action.
